@@ -1,0 +1,457 @@
+@media (max-width: 575.98px) {
+    .navbar-toggler{
+        background-color:#ffd7ad!important;
+    }
+    .navbar{
+        height: auto;
+    }
+    #nav-link-padding{
+        margin: 0;
+    }
+    #nav-link-padding1{
+       margin: 0;
+    }
+    #nav-link-padding2{
+       margin: 0;
+    }
+    #nav-link-padding3{
+       margin: 0;
+    }
+    #nav-link-padding4{
+        margin: 0;
+    }
+    #banner{
+        height: auto;
+        text-align: center;
+    }
+    #banner_logo{
+        padding: 0;
+        margin: 30px 0;
+    }
+    #banner_head{
+        font-size: 50px;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+    #banner_para{
+        padding: 0;
+    }
+    #banner_button{
+        margin: 30px 0px;
+        padding: 10px;
+        font-size: 20px;
+    }
+    .box1{
+        text-align: center;
+    }
+    #menu_box_head{
+        font-size: 45px;
+        padding-top: 25px;
+    }
+    #menu_box1_img{
+        padding: 0;
+        margin-top: 40px;
+    }
+    #menu_box2 button{
+        margin: 30px 0px;
+        padding: 15px;
+        font-size: 16px;
+    }
+    #box1_head{
+        font-size: 45px;
+        padding: 0!important;
+        margin-top: 30px!important;
+    }
+    #box1_para{
+        padding: 0!important;
+        margin-top: 30px!important;
+    }
+    #menu{
+        height: auto;
+        background-position: bottom center;
+        background-size: 69% 14%;
+    }
+    #menu_box3{
+        text-align: center!important;
+        padding: 0!important;
+    }
+    #menu_button1{
+        margin: 20px 0px;
+        padding: 15px;
+        font-size: 20px;
+    }
+    #box3_head{
+        font-size: 85px;
+        padding-left: 0;
+        padding-top: 20px;
+    }
+    #box3_para{
+        font-size: 39px;
+        padding-left: 0;
+        padding-top: 20px;
+    }
+    #box3_head1{
+        font-size: 47px;
+        padding-left: 0;
+        padding-top: 20px;
+    }
+    #box3_row{
+        text-align: center;
+    }
+    #offer1{
+        text-align: center;
+    }
+    #offer_head{
+        font-size: 59px;
+        padding-left: 0;
+        padding-top: 34px;
+    }
+    #offer_para{
+        padding-left: 0;
+    }
+    #offer1 button{
+        margin: 30px 0px;
+        padding: 11px;
+        font-size: 17px;
+    }
+    #offer2 img{
+        padding-top: 11px;
+        padding-bottom: 62px;
+    }
+    #after_offer_para{
+        padding: 25px 0px;
+        font-size: 27px;
+    }
+    #after_offer_head{
+        font-size: 32px;
+        padding-top: 30px;
+        padding-bottom: 67px;
+    }
+    #email_head{
+        font-size: 45px;
+        padding-top: 30px;
+    }
+    #email_para{
+        font-size: 27px;
+        padding: 25px 0px;
+    }
+    #email input{
+        width: 213px;
+        height: 46px;
+        font-size: 17px;
+        padding: 25px 23px;
+    }
+    #email button{
+        width: 128px;
+        height: 52px;
+        font-size: 18.72px;
+        margin-top: -6px;
+    }
+    .footer{
+        height: auto;
+        flex-direction: column;
+    }
+    #footer1{
+        width: 100%;
+        padding: 30px 0px;
+        text-align: center;
+    }
+    #footer2{
+        width: auto;
+        text-align: center;
+        padding: 20px 10px;
+    }
+    #footer_para{
+        width: auto;
+        padding: 20px 10px;
+    }
+    #footer2{
+        display: block;
+    }
+    #footer_box1{
+        padding-bottom: 20px;
+    }
+  }
+  
+  @media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-toggler{
+        background-color:#ffd7ad!important;
+    }
+    .navbar{
+        height: auto;
+    }
+    #nav-link-padding{
+        marmargin
+    }
+    #nav-link-padding1{
+       margin: 0;
+    }
+    #nav-link-padding2{
+       margin: 0;
+    }
+    #nav-link-padding3{
+       margin: 0;
+    }
+    #nav-link-padding4{
+        margin: 0;
+    }
+    #banner{
+        height: auto;
+        text-align: center;
+    }
+    #banner_logo{
+        padding: 0;
+        margin: 30px 0;
+    }
+    #banner_head{
+        font-size: 70px;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+    #banner_para{
+        padding: 0;
+    }
+    #banner_button{
+        margin: 30px 0px;
+        padding: 16px;
+        font-size: 20px;
+    }
+    #menu_box1_img{
+        padding: 0;
+        margin-top: 40px;
+    }
+    #box1_head{
+        font-size: 45px;
+        padding: 0;
+        margin-top: 30px;
+    }
+    #box1_para{
+        padding: 0;
+        margin-top: 80px;
+    }
+    #menu_box2 button{
+        margin: 30px 0px;
+        padding: 15px;
+        font-size: 16px;
+    }
+    #menu_box1{
+        text-align: center;
+    }
+    
+    #menu_box2{
+        text-align: center;
+    }
+    #menu{
+        height: auto;
+        background-position: bottom center;
+        background-size: 69% 14%;
+    }
+    #menu_box3{
+        text-align: center;
+    }
+    #box3_head{
+        font-size: 120px;
+        padding-left: 0;
+        padding-top: 20px;
+    }
+    #box3_para{
+        font-size: 53px;
+        padding-left: 0;
+        padding-top: 20px;
+    }
+    #box3_head1{
+        font-size: 71px;
+        padding-left: 0;
+        padding-top: 20px;
+    }
+    #offer{
+        text-align: center;
+    }
+    #offer_head{
+        font-size: 59px;
+        padding-left: 0;
+        padding-top: 34px;
+    }
+    #offer_para{
+        padding-left: 0;
+    }
+    #offer1 button{
+        margin: 30px 0px;
+        padding: 11px;
+        font-size: 17px;
+    }
+    #offer2 img{
+        padding-top: 11px;
+        padding-bottom: 62px;
+    }
+    #after_offer_para{
+        padding: 25px 0px;
+        font-size: 27px;
+    }
+    #after_offer_head{
+        font-size: 32px;
+        padding-top: 30px;
+        padding-bottom: 67px;
+    }
+    #email_head{
+        font-size: 55px;
+        padding-top: 30px;
+    }
+    #email_para{
+        font-size: 27px;
+        padding: 25px 0px;
+    }
+    #email input{
+        width: 325px;
+    }
+    .footer{
+        height: auto;
+        flex-direction: column;
+    }
+    #footer1{
+        width: 100%;
+        padding: 30px 0px;
+        text-align: center;
+    }
+    #footer2{
+        width: auto;
+        text-align: center;
+        padding: 20px 10px;
+    }
+    #footer_para{
+        width: auto;
+        padding: 20px 10px;
+    }
+    #footer2{
+        display: block;
+    }
+    #footer_box1{
+        padding-bottom: 20px;
+    }
+    
+  }
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-toggler{
+        background-color:#ffd7ad!important;
+    }
+    .navbar{
+        height: auto;
+    }
+    #nav-link-padding{
+        margin: 0;
+    }
+    #nav-link-padding1{
+       margin: 0;
+    }
+    #nav-link-padding2{
+       margin: 0;
+    }
+    #nav-link-padding3{
+       margin: 0;
+    }
+    #nav-link-padding4{
+        margin: 0;
+    }
+    #menu{
+        height: auto;
+        background-size: 61% 16%;
+    }
+    #menu_box2{
+        text-align: center;
+    }
+    #box1_head{
+        padding: 0;
+        margin-top: 60px;
+    }
+    #box1_para{
+        padding: 0;
+        margin-top: 80px;
+    }
+    #menu_box1_img {
+        display: block;
+        margin: 0 auto;
+    }
+    #menu_box2 button{
+        margin: 30px 0px;
+        padding: 15px;
+    }
+    #offer{
+        text-align: center;
+    }
+    #offer_head{
+        padding-top: 50px;
+        padding-left: 0;
+    }
+    #offer_para{
+        padding-left: 0;
+    }
+    #offer1 button{
+        margin: 30px 0px;
+        padding: 11px;
+    }
+    #after_offer_para{
+        padding: 25px 0px;
+    }
+    #after_offer_head{
+        padding-top: 30px;
+        padding-bottom: 67px;
+    }
+    #email_head{
+        padding-top: 30px;
+    }
+    #email_para{
+        padding: 50px 0px;
+    }
+    #email input{
+        width: 504px;
+    }
+    .footer{
+        height: auto;
+        flex-direction: column;
+    }
+    #footer1{
+        width: 100%;
+        padding: 30px 0px;
+        text-align: center;
+    }
+    #footer2{
+        width: auto;
+        text-align: center;
+        padding: 20px 10px;
+    }
+    #footer_para{
+        width: auto;
+        padding: 20px 10px;
+    }
+    #footer2{
+        display: block;
+        padding-bottom: 170px;
+    }
+    #footer_box1{
+        padding-bottom: 20px;
+    }
+    #footer2{
+        display: flex;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    #nav-link-padding {
+        padding-left: 283px;
+    }
+    #footer1 {
+        width: 42%;
+        padding-top: 249px;
+        padding-left: 44px;
+    }
+    #box1_head {
+        padding-top: 145px;
+    }
+    #offer1 button{
+        margin-bottom: 40px;
+    }
+}
+
+
+@media (min-width: 1200px) { ... }
